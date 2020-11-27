@@ -1,12 +1,3 @@
-// =============== Port ===============
-const express = require('express');
-const app = express();
-const port = 3000;
-
-app.get('/', (req, res) => res.send('Bot Is Working Well!'));
-
-app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`));
-
 // =============== Bot ===============
 const Discord = require('discord.js');
 const client = new Discord.Client();
@@ -17,7 +8,6 @@ const prefix = "+";
 client.on ("ready", () => {
     
     console.log('The Bot Is Ready!');
-    client.channels.cache.find(channel => channel.name === 'online').send("The <@780703694886010902> Have Been Restarted");
     client.user.setPresence({
       status: 'idle',
       activity: {
