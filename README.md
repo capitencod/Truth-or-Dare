@@ -26,7 +26,7 @@ You cand change the bot prefix in `index.js` at line 5
 **🔴ست کنید `config.json` فراموش نکنید که توکن ربات رو داخل🔴**
 <br><br>
 در خط 5 تغییر دهید `index.js` شما میتوانید پیش درستور ربات را در فایل
-<br>
+<br><br>
 **با تشکر
 <br><br>
 -its'Hadi.Az'#1405**
