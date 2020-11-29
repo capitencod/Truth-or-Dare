@@ -3,7 +3,7 @@ Discord Truth-or-Dare Bot
 <br><br>
 You Can Easly Change Or Add Questions
 <br>
-**# Installation:**
+**Installation:**
 <br><br>
 First of all you should install <a href="https://nodejs.org/en/">Node.js</a>
 <br><br>
