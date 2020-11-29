@@ -11,7 +11,7 @@ client.on ("ready", () => {
     client.user.setPresence({
       status: 'idle',
       activity: {
-          name: 'truth or dare | +help',
+          name: 'truth or dare | ${prefix}help',
           type: 'PLAYING',
       }
   })
