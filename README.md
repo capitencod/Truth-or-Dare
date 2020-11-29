@@ -14,3 +14,7 @@ Then use `node index.js` to run the bot
 **🔴Do not forget to set the bot token in config.json🔴**
 <br><br>
 You cand change the bot prefix in `index.js` at line 5
+-------------------------------------------------------
+**آموزش نصب**
+<br><br>
+اول از همه شما باید <a href="https://nodejs.org/en/">Node.js</a>را بر روی سیستم خود نصب کرده باشید 
