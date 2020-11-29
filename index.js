@@ -9,10 +9,10 @@ client.on ("ready", () => {
     
     console.log('The Bot Is Ready!');
     client.user.setPresence({
-      status: 'idle',
+      status: 'idle', // Can Be ONLINE, DND, IDLE, INVISBLE
       activity: {
           name: 'truth or dare | ${prefix}help',
-          type: 'PLAYING',
+          type: 'PLAYING', // Can Be WHATCHING, LISTENING
       }
   })
   }); 
