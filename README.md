@@ -1,5 +1,4 @@
 # Truth-or-Dare
-Discord Truth-or-Dare Bot 
 <br><br>
 You Can Easly Change Or Add Questions
 <br>
@@ -14,7 +13,9 @@ Then use `node index.js` to run the bot Or use `start.bat` file to run bot
 **🔴Do not forget to set the bot token in config.json🔴**
 <br><br>
 You cand change the bot prefix in `index.js` at line 5
-# 
+#
+شما به راحتی میتوانید سوالات ربات رو عوض کنید
+<br>
 **آموزش نصب**
 <br><br>
 را بر روی سیستم خود نصب کرده باشید <a href="https://nodejs.org/en/">Node.js</a> اول از همه شما باید 
